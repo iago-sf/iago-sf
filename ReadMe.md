@@ -7,7 +7,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iago-sf&theme=dark&hide_border=false)
 
----
-[![](https://visitcount.itsvg.in/api?id=iago-sf&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
